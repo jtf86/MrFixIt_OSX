@@ -1,0 +1,9 @@
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/bin/Debug/netcoreapp1.0/MrFixIt.deps.json
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/bin/Debug/netcoreapp1.0/MrFixIt.runtimeconfig.json
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/bin/Debug/netcoreapp1.0/MrFixIt.runtimeconfig.dev.json
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/bin/Debug/netcoreapp1.0/MrFixIt.dll
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/bin/Debug/netcoreapp1.0/MrFixIt.pdb
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/obj/Debug/netcoreapp1.0/MrFixIt.AssemblyInfo.cs
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/obj/Debug/netcoreapp1.0/MrFixIt.dll
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/obj/Debug/netcoreapp1.0/MrFixIt.pdb
+/Users/epicodus_staff/Desktop/MrFixIt/src/MrFixIt/obj/Debug/netcoreapp1.0/MrFixIt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2B9A2B07-148F-44AF-8DA4-37722D5CE41F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/MrFixIt/Views/Workers/Index.cshtml">
+    <Files>
+      <File FileName="src/MrFixIt/Project_Readme.html" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Startup.cs" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Program.cs" Line="21" Column="1" />
+      <File FileName="src/MrFixIt/appsettings.json" Line="3" Column="121" />
+      <File FileName="src/MrFixIt/backup/project.json" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/web.config" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Models/MrFixItContext.cs" Line="18" Column="90" />
+      <File FileName="src/MrFixIt/Migrations/MrFixItContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Controllers/AccountController.cs" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Views/Account/Index.cshtml" Line="1" Column="1" />
+      <File FileName="global.json" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="src/MrFixIt/Views/Workers/Index.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.MrFixIt PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
